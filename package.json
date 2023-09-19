@@ -1,0 +1,13 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "react-server-components": "pnpm --filter react-server-components",
+    "prisma": "pnpm --filter prisma"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
